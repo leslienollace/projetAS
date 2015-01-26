@@ -1,6 +1,6 @@
 ---
-title: "Le titre ridicule"
-author: "Leslie Nollace et Émilie"
+title: ""
+author: "Leslie Nollace et Émilie Saintillan"
 date: "26/01/2015"
 output:
   html_document:
